@@ -21,4 +21,5 @@ Estou continuamente expandindo este repositório com novos exercícios e desafio
 
 **Victor Futuro Senior**  
 Email: victorsenior2030@gmail.com  
-GitHub: [https://github.com/victorsenior2030](https://github.com/victorsenior2030)
+GitHub: [https://github.com/victorsenior2030]
+(https://github.com/victorsenior2030)
