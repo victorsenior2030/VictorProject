@@ -19,7 +19,7 @@ Estou continuamente expandindo este repositório com novos exercícios e desafio
 
 ## Contato
 
-**Victor Futuro Senior**  
+**Victor Hugo**  
 Email: victorsenior2030@gmail.com  
 GitHub: [https://github.com/victorsenior2030]
 (https://github.com/victorsenior2030)
